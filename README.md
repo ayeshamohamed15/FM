@@ -89,7 +89,6 @@ Modulation Index Practical	= 3.14
 Modulation Index Theoretical	=3.0
 
 RESULT:
-
 Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified.
 
 
