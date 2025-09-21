@@ -1,5 +1,4 @@
 # FM
-
 EXP NO: 4	GENERATION AND DETECTION OF FM
 
 AIM:
@@ -14,7 +13,6 @@ Frequency modulation is a type of modulation in which the frequency of the high 
 FREQUENCY DEVIATION f and MODULATION INDEX m f :
 The frequency deviation f represents the maximum shift between the  modulatedsignal
 frequency, over and under the frequency of the carrier.
-
 We define modulation index m f the ratio between f and the modulating frequency
 m= f / fm
 
@@ -41,7 +39,6 @@ Algorithm
 •	Plots the modulating signal, carrier signal, FM modulated signal, and demodulated signal for analysis.
 
 PROCEDURE
-
 •	Refer Algorithms and write code for the experiment.
 •	Open SCILAB in System
 •	Type your code in New Editor
