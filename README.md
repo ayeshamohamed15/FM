@@ -93,6 +93,7 @@ Tabulation
 
 
 Calculation
+<img width="1294" height="636" alt="image" src="https://github.com/user-attachments/assets/bc6e980f-0a99-4218-ac36-6b90e48850e0" />
 
 
 
