@@ -2,18 +2,14 @@
 
 EXP NO: 4	GENERATION AND DETECTION OF FM
 
-
 AIM:
 To write a program for Frequency Modulation and Demodulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
 
-
 EQUIPMENTS REQUIRED
-
 •	Computer with i3 Processor
 •	SCI LAB
 
 THEORY:
-
 Frequency modulation is a type of modulation in which the frequency of the high frequency (carrier) is varied in accordance with the instantaneous value of the modulating signal.
 FREQUENCY DEVIATION f and MODULATION INDEX m f :
 The frequency deviation f represents the maximum shift between the  modulatedsignal
@@ -21,7 +17,6 @@ frequency, over and under the frequency of the carrier.
 
 We define modulation index m f the ratio between f and the modulating frequency
 m= f / fm
-
 
 FREQUENCY MODULATION GENERATION:
 The circuits used to generate a frequency modulation must vary the frequency of a high frequency signal (carrier) as function of the amplitude of a low frequency signal (modulating signal). In practice there are two main methods used to generate FM.
@@ -38,7 +33,6 @@ Algorithm
 •	Modulated signal: FM modulated signal calculated by varying the carrier frequency according to the modulating signal.
 3.	FM Modulation:
 •	Modulated signal is obtained by modulating the carrier signal with the modulating signal.
- 
 4.	FM Demodulation:
 •	Differentiation: Computes the derivative of the modulated signal to extract frequency variations.
 •	Envelope Detection: Takes the absolute value to retrieve the envelope of the signal.
@@ -46,10 +40,7 @@ Algorithm
 5.	Visualization:
 •	Plots the modulating signal, carrier signal, FM modulated signal, and demodulated signal for analysis.
 
-
-
 PROCEDURE
-
 
 •	Refer Algorithms and write code for the experiment.
 •	Open SCILAB in System
@@ -62,7 +53,6 @@ Verify the generated waveform using Tabulation and Model Waveform
 MODEL GRAPH:
 
 <img width="512" height="365" alt="image" src="https://github.com/user-attachments/assets/acd787bd-5281-4f1b-802f-1aa39fac9189" />
-
 
 Program
 Am=2.3;
@@ -85,25 +75,18 @@ Output Waveform
 
 <img width="882" height="531" alt="image" src="https://github.com/user-attachments/assets/f090af94-afb1-4fba-b77d-6d05765bcead" />
 
-
 Tabulation
 
 <img width="831" height="546" alt="image" src="https://github.com/user-attachments/assets/35be402b-861a-467a-b016-eb94100d23a7" />
 
-
-
 Calculation
 <img width="1294" height="636" alt="image" src="https://github.com/user-attachments/assets/bc6e980f-0a99-4218-ac36-6b90e48850e0" />
-
-
 
 Frequency Deviation Practical = 672.05
 
 Modulation Index Practical	= 3.14
 
 Modulation Index Theoretical	=3.0
-
-
 
 RESULT:
 
